@@ -1,0 +1,74 @@
+Food,Calories (kcal),Protein (g),Carbs (g),Fat (g),Type
+Rice,130,2,28,0,Veg
+Roti,120,3,18,2,Veg
+Paneer,265,18,6,20,Veg
+Dal,116,9,20,1,Veg
+Chickpeas,164,9,27,3,Veg
+Rajma,127,9,23,1,Veg
+Tofu,76,8,2,4,Veg
+Soybean,172,16,9,9,Veg
+Oats,389,17,66,7,Veg
+Poha,180,4,38,2,Veg
+Upma,210,6,30,7,Veg
+Idli,58,2,12,0,Veg
+Dosa,168,4,28,6,Veg
+Vegetable Biryani,220,5,35,6,Veg
+Veg Pulao,210,4,32,6,Veg
+Aloo Paratha,290,7,45,10,Veg
+Vegetable Curry,150,4,20,7,Veg
+Palak Paneer,270,14,8,21,Veg
+Mushroom Curry,190,6,15,10,Veg
+Mixed Veg Sabzi,120,3,15,5,Veg
+Cabbage Sabzi,90,2,12,3,Veg
+Bhindi Masala,130,3,14,7,Veg
+Baingan Bharta,110,3,10,5,Veg
+Sweet Potato,86,2,20,0,Veg
+Corn,96,3,21,1,Veg
+Broccoli,55,4,11,0,Veg
+Spinach,23,3,4,0,Veg
+Carrot,41,1,10,0,Veg
+Apple,52,0,14,0,Veg
+Banana,96,1,27,0,Veg
+Orange,47,1,12,0,Veg
+Papaya,43,0,11,0,Veg
+Mango,60,1,15,0,Veg
+Pineapple,50,1,13,0,Veg
+Strawberry,33,1,8,0,Veg
+Watermelon,30,1,8,0,Veg
+Almonds,579,21,22,50,Veg
+Cashews,553,18,30,44,Veg
+Peanuts,567,26,16,49,Veg
+Walnuts,654,15,14,65,Veg
+Pumpkin Seeds,559,30,11,49,Veg
+Sunflower Seeds,584,21,20,51,Veg
+Chia Seeds,486,17,42,31,Veg
+Flax Seeds,534,18,29,42,Veg
+Milk,60,3,5,3,Veg
+Yogurt,59,10,3,0,Veg
+Cheese,402,25,1,33,Veg
+Butter,717,1,0,81,Veg
+Chicken Breast,165,31,0,4,Non Veg
+Chicken Curry,240,27,5,14,Non Veg
+Chicken Biryani,292,20,28,12,Non Veg
+Fried Chicken,320,25,10,22,Non Veg
+Grilled Chicken,210,30,2,8,Non Veg
+Egg,155,13,1,11,Non Veg
+Boiled Egg,78,6,1,5,Non Veg
+Omelette,154,11,2,12,Non Veg
+Fish Curry,206,22,0,12,Non Veg
+Grilled Fish,190,24,0,9,Non Veg
+Tuna,132,28,0,1,Non Veg
+Salmon,208,20,0,13,Non Veg
+Prawns,99,24,0,1,Non Veg
+Crab,97,19,0,1,Non Veg
+Mutton Curry,294,25,0,21,Non Veg
+Lamb Chops,282,25,0,20,Non Veg
+Beef Steak,271,26,0,19,Non Veg
+Beef Curry,250,24,5,17,Non Veg
+Turkey,189,29,0,7,Non Veg
+Duck Meat,337,19,0,28,Non Veg
+Chicken Soup,75,10,3,2,Non Veg
+Egg Fried Rice,210,8,30,7,Non Veg
+Chicken Noodles,220,10,32,8,Non Veg
+Fish Fry,240,20,10,14,Non Veg
+Shrimp Curry,180,19,6,8,Non Veg
