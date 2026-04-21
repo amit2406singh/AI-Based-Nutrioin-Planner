@@ -1,0 +1,1 @@
+The AI-Based Nutrition Planner is an intelligent system designed to personalize diet and nutrition recommendations using artificial intelligence. It analyzes individual health data, lifestyle patterns, and dietary preferences to generate customized meal plans that promote balanced nutrition and long-term wellness
